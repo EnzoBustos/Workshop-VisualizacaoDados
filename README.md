@@ -1,2 +1,2 @@
 # Workshop-VisualizacaoDados
-WS-IDEC
+Repositório criado com a intenção de guardar os arquivos usados no Workshop de Visualização de Dados ministrado por mim durante da IDEC – Iniciativa de Ensino Colaborativo, evento de cunho profissionalizante no estilo "dê alunos, para alunos" da POLI em parceria com o CEN - Centro de Engenharia Naval e CAM - Centro Acadêmico Mecânica e Mecatrônica, ambos da Escola Politécnica da Universidade de São Paulo (EP-USP). Nestes arquivos temos os datasets, notebooks e gabaritos utilizados durante o evento.
